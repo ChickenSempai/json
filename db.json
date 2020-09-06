@@ -6,11 +6,16 @@
       "content" : "My first content!"
     }
   ],
-  "comments" : [
+  "babuins" : [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": "0",
+      "name": "Wow such content!",
+      "publicname": "zero_cool",
+      "description": "string";
+      "image": "https://stepa-server.herokuapp.com/images/holder.jpg";
+      "toxic": 1;
+      "wild": 5;
+      "power": 10;
     }
   ]
 }
