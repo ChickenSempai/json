@@ -11,11 +11,11 @@
       "id": "0",
       "name": "Wow such content!",
       "publicname": "zero_cool",
-      "description": "string";
-      "image": "https://stepa-server.herokuapp.com/images/holder.jpg";
-      "toxic": 1;
-      "wild": 5;
-      "power": 10;
+      "description": "string",
+      "image": "https://stepa-server.herokuapp.com/images/holder.jpg",
+      "toxic": 1,
+      "wild": 5,
+      "CHAD": 10
     }
   ]
 }
